@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\SistemaLoginSQL.Form1.resources
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\SistemaLoginSQL.frmLogin.resources
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\SistemaLoginSQL.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\bin\Debug\SistemaLoginSQL.exe
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\bin\Debug\SistemaLoginSQL.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\SistemaLoginSQL.exe
+C:\Users\Gustavo\Documents\Visual Studio 2010\Projects\SistemaLoginSQL\SistemaLoginSQL\obj\x86\Debug\SistemaLoginSQL.pdb
